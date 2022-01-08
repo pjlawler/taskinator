@@ -42,6 +42,6 @@ var createTaskEl = function (taskDataObj) {
 formEl.addEventListener("submit", taskFormHandler);
 
 
-// Currently starting 4.2.6
+// Currently starting 4.3.1
 
 
